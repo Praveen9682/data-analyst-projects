@@ -1,4 +1,16 @@
-# Titanic Survival Analysis
+# Data Analyst Projects
+
+A collection of self-driven analytics projects built while practicing for a data analyst role.
+
+## Projects
+
+### 1. [Retail Inventory & Stock-Out Risk Dashboard](./retail-inventory-dashboard)
+Excel (Power Pivot) and Power BI dashboards on a synthetic 54,300-row retail dataset, built on a 4-table star schema with DAX time-intelligence measures. Answers: which SKU-store combinations are at stock-out risk right now.
+
+### 2. Titanic Survival Analysis
+SQL/Python/Pandas exploration of survival patterns in the Titanic dataset. See below.
+
+---# Titanic Survival Analysis
 
 A self-driven data analysis project exploring survival patterns in the Titanic dataset using SQL, Python (Pandas), and data visualization.
 
